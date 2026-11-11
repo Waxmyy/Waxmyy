@@ -6,15 +6,14 @@
 <br/>
 
 <!-- RANK:START -->
-[![Thailand GitHub Rank](https://img.shields.io/badge/Thailand_Rank-%23262_Public_Contributions-2E90FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/thailand.md)
+[![Thailand GitHub Rank](https://img.shields.io/badge/Thailand_Rank-%23NO1_Thailand-2E90FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/thailand.md)
 <!-- RANK:END -->
 
 <br/>
 
 ## 🚀 About Me
-> **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
-
-* 🎓 **Role:** Academic Lecturer & PhD Candidate in Computer Science & Applied Geoinformatics
+> **Com sci student** specializing in Web Development,Software Engineering,Data Science, and Health tech
+* 🎓 **Role:** Computer Science student
 * 🔬 **Research Focus:** GeoAI, Spatial Analytics, LLM Architectures & Remote Sensing
 * 💼 **Currently Working On:** Developing modern web application architectures & Cloud-native workflows
 * 💬 **Ask Me About:** AI/GeoAI Research, Fullstack Development, GIS, or Local LLM deployments
