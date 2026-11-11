@@ -1,4 +1,10 @@
 ## Wasubb Im Wa nice to meet you bro
+
+## คติประจำใจ
+if you don't roll a six,just keep rolling
+
+
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=CS+Student+%2F+Phayao+U;+YRC+%2F+Chiangmai+%2F+Star+Boy)
